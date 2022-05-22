@@ -24,10 +24,13 @@
 @@://piwik.
 @@://plausible.
 @@/plausible.js
+@@/umami.js
 !
 ! Specific
 !
 @@||piwik.pro^$third-party
 @@||plausible.io^
-
+@@||simpleanalyticscdn.com^
+@@||simpleanalytics.io^
+@@||fossdroid.com/p.js$script
 @@/js/analytics.$domain=simplelogin.io
