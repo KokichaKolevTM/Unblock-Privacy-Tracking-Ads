@@ -21,10 +21,10 @@
 @@/piwikC_
 @@/piwikTracker.
 @@://matomo.
-@@://piwik.
 @@://plausible.
 @@/plausible.js
 @@/umami.js
+@@://umami.
 !
 ! Specific
 !
@@ -32,5 +32,7 @@
 @@||plausible.io^
 @@||simpleanalyticscdn.com^
 @@||simpleanalytics.io^
+@@||goatcounter.com^$third-party
+@@||gc.zgo.at^
 @@||fossdroid.com/p.js$script
 @@/js/analytics.$domain=simplelogin.io
