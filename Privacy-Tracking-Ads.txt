@@ -25,6 +25,17 @@
 @@/plausible.js
 @@/umami.js
 @@://umami.
+@@*$removeparam=mtm_campaign
+@@*$removeparam=mtm_cid
+@@*$removeparam=mtm_content
+@@*$removeparam=mtm_group
+@@*$removeparam=mtm_keyword
+@@*$removeparam=mtm_medium
+@@*$removeparam=mtm_placement
+@@*$removeparam=mtm_source
+@@*$removeparam=pk_campaign
+@@*$removeparam=pk_medium
+@@*$removeparam=pk_source
 !
 ! Specific
 !
@@ -38,3 +49,4 @@
 @@||stats.elementary.io^
 @@||fossdroid.com/p.js$script
 @@/js/analytics.$domain=simplelogin.io
+@@/?sentry_key=$domain=proton.me
