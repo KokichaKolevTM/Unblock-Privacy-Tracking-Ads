@@ -48,5 +48,7 @@
 @@||improving.duckduckgo.com^
 @@||stats.elementary.io^
 @@||fossdroid.com/p.js$script
+@@||startpage.com/sp/jst
+@@||startpage.com/sp/elp
 @@/js/analytics.$domain=simplelogin.io
 @@/?sentry_key=$domain=proton.me
