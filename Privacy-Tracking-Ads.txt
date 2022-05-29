@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 4
+! Version: 5
 ! Title: Privacy Tracking & Ads
 ! Description: Unblocks (allows) privacy-friendly tracking/analytics & ads
-! Last modified: 28 May 2022
+! Last modified: 29 May 2022
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/KokichaKolevTM/Unblock-Privacy-Tracking-Ads/
 !
@@ -50,5 +50,6 @@
 @@||fossdroid.com/p.js$script
 @@||startpage.com/sp/jst
 @@||startpage.com/sp/elp
+@@||fathom.status.im^
 @@/js/analytics.$domain=simplelogin.io
 @@/?sentry_key=$domain=proton.me
