@@ -56,5 +56,6 @@
 @@||beampipe.io^$third-party
 @@||microanalytics.io^$third-party
 @@||pirsch.io^$third-party
+@@||ethicalads.io^$third-party
 @@/js/analytics.$domain=simplelogin.io
 @@/?sentry_key=$domain=proton.me
