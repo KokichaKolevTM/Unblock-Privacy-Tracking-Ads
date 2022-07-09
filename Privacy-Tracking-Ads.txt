@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 7
+! Version: 8
 ! Title: Privacy Tracking & Ads
 ! Description: Unblocks (allows) privacy-friendly tracking/analytics & ads
 ! Last modified: 9 Jul 2022
