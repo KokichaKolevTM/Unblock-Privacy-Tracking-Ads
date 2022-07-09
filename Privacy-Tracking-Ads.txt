@@ -57,5 +57,6 @@
 @@||microanalytics.io^$third-party
 @@||pirsch.io^$third-party
 @@||ethicalads.io^$third-party
+@@||ariadne.modrinth.com^
 @@/js/analytics.$domain=simplelogin.io
 @@/?sentry_key=$domain=proton.me
