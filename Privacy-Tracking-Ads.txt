@@ -4,7 +4,7 @@
 ! Description: Unblocks (allows) privacy-friendly tracking/analytics & ads
 ! Last modified: 9 Jul 2022
 ! Expires: 10 days (update frequency)
-! Homepage: https://github.com/KokichaKolevTM/Unblock-Privacy-Tracking-Ads/
+! Homepage: https://github.com/KokichaKolevTM/Unblock-Privacy-Tracking-Ads
 !
 ! Global
 !
